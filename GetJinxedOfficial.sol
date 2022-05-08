@@ -1,7 +1,7 @@
 // Jinx is my favorite character from the series Arcane which is based on the popular game League of Legends, hence the name GetJinxedOfficial
 // You will understand the symbol if you watch the series tho ;)
 // Programmed by JD
-// Under guidance from www.openquest.xyz
+// Guided by www.openquest.xyz
 
 // POW Contract Address: 0x855794460f2D0A69cC212559D593ce25998E2e74 
 // Verified Contract Code on Etherscan: https://ropsten.etherscan.io/address/0x855794460f2D0A69cC212559D593ce25998E2e74#code
