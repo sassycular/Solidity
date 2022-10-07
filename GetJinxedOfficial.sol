@@ -3,6 +3,7 @@
 // Programmed by JD
 // Guided by www.openquest.xyz
 
+// ERC 20 Token
 // POW Contract Address: 0x855794460f2D0A69cC212559D593ce25998E2e74 
 // Verified Contract Code on Etherscan: https://ropsten.etherscan.io/address/0x855794460f2D0A69cC212559D593ce25998E2e74#code
 // Submitted for verification at Etherscan.io on 07-05-2022
